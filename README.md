@@ -1,4 +1,4 @@
-# GLOBMAP LAI V3 1981 2023 Reproduced Dataset
+# GLOBMAP LAI V3 1981 2023 Dataset
 
 我们基于 GIMMS NDVI、MODIS MOD09A1 C6 反射率、MCD12Q1 土地覆盖、500 m global clumping index 和 GLOBCARBON LUT 等原始输入，重新生成了 1981–2023 年全球叶面积指数数据，并同步提供完整生产代码、质量控制结果和制图成果。
 
